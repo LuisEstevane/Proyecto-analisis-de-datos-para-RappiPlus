@@ -1,5 +1,7 @@
 📊 KPIs y Funnel de Conversión – RappiPlus
+
 🎯 Objetivo del Proyecto
+
 El propósito de este análisis es evaluar el desempeño comercial y de marketing de RappiPlus, identificando puntos críticos en el funnel de conversión y oportunidades de optimización en campañas publicitarias.
 El proyecto busca generar insights accionables para mejorar la rentabilidad, la eficiencia del gasto en marketing y la experiencia de usuario en el proceso de compra.
 
